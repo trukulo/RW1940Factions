@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<RulePackDef>
+		<defName>UsaClan</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>r_name->United Star Coalition</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+	<RulePackDef>
+		<defName>NamerSettlementUsa</defName>
+		<rulePack>
+			<rulesFiles>
+				<li>CityList->NationsNames/UsaCity</li>
+			</rulesFiles>
+		</rulePack>
+	</RulePackDef>
+</Defs>

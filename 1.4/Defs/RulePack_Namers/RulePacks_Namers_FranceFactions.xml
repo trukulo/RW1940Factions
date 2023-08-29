@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<RulePackDef>
+		<defName>FranceClan</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>r_name->Republic of Gallia</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+	<RulePackDef>
+		<defName>NamerSettlementFrance</defName>
+		<rulePack>
+			<rulesFiles>
+				<li>CityList->NationsNames/FranceCity</li>
+			</rulesFiles>
+		</rulePack>
+	</RulePackDef>
+</Defs>

@@ -1,0 +1,87 @@
+Águilas
+Alcalá
+Alcobendas
+Alcorcón
+Algeciras
+Alicante
+Almería
+Almuñécar
+Alzira
+Aranjuez
+Ávila
+Badajoz
+Badalona
+Barcelona
+Benalmádena
+Benidorm
+Bilbao
+Burgos
+Cáceres
+Cádiz
+Calpe
+Cartagena
+Castelldefels
+Castellón
+Chiclana
+Ciudad Real
+Córdoba
+Cornellà
+Cuenca
+Dos Hermanas
+Elche
+Estepona
+Figueres
+Fuengirola
+Getafe
+Gijón
+Girona
+Granada
+Guadalajara
+Huelva
+Huesca
+Ibiza
+Jaén
+Jerez
+La Línea
+Las Palmas
+León
+Lleida
+Logroño
+Lugo
+Madrid
+Málaga
+Mallorca
+Marbella
+Mérida
+Mijas
+Murcia
+Ourense
+Oviedo
+Palencia
+Pamplona
+Ponferrada
+Pontevedra
+Reus
+Ronda
+Sabadell
+Salamanca
+San Sebastián
+Santa Coloma
+Santa Cruz
+Santander
+Santiago
+Segovia
+Sevilla
+Soria
+Tarragona
+Terrassa
+Toledo
+Torrevieja
+Valencia
+Valladolid
+Vélez
+Vigo
+Vilanova
+Vitoria
+Zamora
+Zaragoza

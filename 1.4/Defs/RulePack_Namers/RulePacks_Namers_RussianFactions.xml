@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<RulePackDef>
+		<defName>RussianClan</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>r_name->Cosmocratic Soviets</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+	<RulePackDef>
+		<defName>NamerSettlementRussia</defName>
+		<rulePack>
+			<rulesFiles>
+				<li>CityList->NationsNames/RussianCity</li>
+			</rulesFiles>
+		</rulePack>
+	</RulePackDef>
+</Defs>

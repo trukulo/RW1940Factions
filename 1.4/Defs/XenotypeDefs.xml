@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <XenotypeDef>
+    <defName>russian</defName>
+    <label>Soviet</label>
+    <description>Soviet.</description>
+    <descriptionShort>A Soviet.</descriptionShort>
+    <iconPath>World/WorldObjects/Expanding/russia</iconPath>
+    <inheritable>false</inheritable>
+    <combatPowerFactor>1.1</combatPowerFactor>
+	<nameMaker>NamerPersonRussianMale</nameMaker>
+	<nameMakerFemale>NamerPersonRussianFemale</nameMakerFemale>
+	<chanceToUseNameMaker>1</chanceToUseNameMaker>
+    <genes>
+		<li>AptitudeStrong_Construction</li>
+		<li>AptitudePoor_Animals</li>
+    </genes>
+  </XenotypeDef>
+
+  <XenotypeDef>
+    <defName>france</defName>
+    <label>Gallian</label>
+    <description>Gallian.</description>
+    <descriptionShort>A Gallian.</descriptionShort>
+    <iconPath>World/WorldObjects/Expanding/france</iconPath>
+    <inheritable>false</inheritable>
+    <combatPowerFactor>1</combatPowerFactor>
+	<nameMaker>NamerPersonFranceMale</nameMaker>
+	<nameMakerFemale>NamerPersonFranceFemale</nameMakerFemale>
+	<chanceToUseNameMaker>1</chanceToUseNameMaker>
+    <genes>
+		<li>AptitudeStrong_Cooking</li>
+		<li>AptitudePoor_Crafting</li>
+    </genes>
+  </XenotypeDef>
+
+  <XenotypeDef>
+    <defName>england</defName>
+    <label>British</label>
+    <description>British.</description>
+    <descriptionShort>A British.</descriptionShort>
+    <iconPath>World/WorldObjects/Expanding/england</iconPath>
+    <inheritable>false</inheritable>
+    <combatPowerFactor>1</combatPowerFactor>
+	<nameMaker>NamerPersonEnglandMale</nameMaker>
+	<nameMakerFemale>NamerPersonEnglandFemale</nameMakerFemale>
+	<chanceToUseNameMaker>1</chanceToUseNameMaker>
+    <genes>
+		<li>AptitudeStrong_Mining</li>
+		<li>AptitudePoor_Cooking</li>
+    </genes>
+  </XenotypeDef>
+
+  <XenotypeDef>
+    <defName>spain</defName>
+    <label>Solarian</label>
+    <description>Solarian.</description>
+    <descriptionShort>A Solarian.</descriptionShort>
+    <iconPath>World/WorldObjects/Expanding/spain</iconPath>
+    <inheritable>false</inheritable>
+    <combatPowerFactor>1</combatPowerFactor>
+	<nameMaker>NamerPersonSpainMale</nameMaker>
+	<nameMakerFemale>NamerPersonSpainFemale</nameMakerFemale>
+	<chanceToUseNameMaker>1</chanceToUseNameMaker>
+    <genes>
+		<li>AptitudeStrong_Medicine</li>
+		<li>AptitudePoor_Intellectual</li>
+		<li>Sleepy</li>
+    </genes>
+  </XenotypeDef>
+
+  <XenotypeDef>
+    <defName>germany</defName>
+    <label>Stahl</label>
+    <description>Stahl.</description>
+    <descriptionShort>A Stahl.</descriptionShort>
+    <iconPath>World/WorldObjects/Expanding/germany</iconPath>
+    <inheritable>false</inheritable>
+    <combatPowerFactor>1</combatPowerFactor>
+	<nameMaker>NamerPersonGermanyMale</nameMaker>
+	<nameMakerFemale>NamerPersonGermanyFemale</nameMakerFemale>
+	<chanceToUseNameMaker>1</chanceToUseNameMaker>
+    <genes>
+		<li>AptitudeStrong_Crafting</li>
+		<li>AptitudePoor_Plants</li>
+    </genes>
+  </XenotypeDef>
+
+ <XenotypeDef>
+    <defName>japan</defName>
+    <label>Nipon</label>
+    <description>Nipon.</description>
+    <descriptionShort>A Nipon.</descriptionShort>
+    <iconPath>World/WorldObjects/Expanding/japan</iconPath>
+    <inheritable>false</inheritable>
+    <combatPowerFactor>1</combatPowerFactor>
+	<nameMaker>NamerPersonJapanMale</nameMaker>
+	<nameMakerFemale>NamerPersonJapanFemale</nameMakerFemale>
+	<chanceToUseNameMaker>1</chanceToUseNameMaker>
+    <genes>
+		<li>AptitudeStrong_Intellectual</li>
+		<li>AptitudePoor_Social</li>
+		<li>Libido_Low</li>
+    </genes>
+  </XenotypeDef>
+  
+ <XenotypeDef>
+    <defName>usa</defName>
+    <label>Star</label>
+    <description>Star.</description>
+    <descriptionShort>A Star.</descriptionShort>
+    <iconPath>World/WorldObjects/Expanding/usa</iconPath>
+    <inheritable>false</inheritable>
+    <combatPowerFactor>1</combatPowerFactor>
+	<nameMaker>NamerPersonUsaMale</nameMaker>
+	<nameMakerFemale>NamerPersonUsaFemale</nameMakerFemale>
+	<chanceToUseNameMaker>1</chanceToUseNameMaker>
+    <genes>
+		<li>AptitudeStrong_Plants</li>
+		<li>AptitudePoor_Medicine</li>
+    </genes>
+  </XenotypeDef>
+
+ <XenotypeDef>
+    <defName>italy</defName>
+    <label>Novan</label>
+    <description>Novan.</description>
+    <descriptionShort>A Novan.</descriptionShort>
+    <iconPath>World/WorldObjects/Expanding/italy</iconPath>
+    <inheritable>false</inheritable>
+    <combatPowerFactor>1</combatPowerFactor>
+	<nameMaker>NamerPersonItalyMale</nameMaker>
+	<nameMakerFemale>NamerPersonItalyFemale</nameMakerFemale>
+	<chanceToUseNameMaker>1</chanceToUseNameMaker>
+    <genes>
+		<li>AptitudeStrong_Artistic</li>
+		<li>AptitudePoor_Mining</li>
+		<li>Libido_High</li>
+    </genes>
+  </XenotypeDef>
+  
+</Defs>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<RulePackDef>
+		<defName>SpainClan</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>r_name->Solarian Empire</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+	<RulePackDef>
+		<defName>NamerSettlementSpain</defName>
+		<rulePack>
+			<rulesFiles>
+				<li>CityList->NationsNames/SpainCity</li>
+			</rulesFiles>
+		</rulePack>
+	</RulePackDef>
+</Defs>

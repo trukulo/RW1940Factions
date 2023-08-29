@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<RulePackDef>
+		<defName>ItalyClan</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>r_name->Nova Impero</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+	<RulePackDef>
+		<defName>NamerSettlementItaly</defName>
+		<rulePack>
+			<rulesFiles>
+				<li>CityList->NationsNames/ItalyCity</li>
+			</rulesFiles>
+		</rulePack>
+	</RulePackDef>
+</Defs>

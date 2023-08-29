@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>1940 Nations Factions</name>
+    <author>trukulo</author>
+    <packageId>trukulo.nationsfaction</packageId>
+    <supportedVersions>
+        <li>1.4</li>
+    </supportedVersions>
+    <description>A simple mod that incorporates 1940 Nations in factions. The 1940 Nations Factions Mod for RimWorld immerse players in a dystopian future where the nations of that era have expanded their influence into the cosmos. A place where WW2 never took place, and instead, they traveled to the stars and started a Intergalactic War.</description>
+</ModMetaData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<RulePackDef>
+		<defName>JapanClan</defName>
+		<rulePack>
+			<rulesStrings>
+				<li>r_name->Yamato Shogunate</li>
+			</rulesStrings>
+		</rulePack>
+	</RulePackDef>
+	<RulePackDef>
+		<defName>NamerSettlementJapan</defName>
+		<rulePack>
+			<rulesFiles>
+				<li>CityList->NationsNames/JapanCity</li>
+			</rulesFiles>
+		</rulePack>
+	</RulePackDef>
+</Defs>
